@@ -1,0 +1,12 @@
+{
+  "name": "projetosoftware",
+  "version": "1.0.0",
+  "description": "Projeto de Software para faculdade Impacta",
+  "main": "cadastroUsuario.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
