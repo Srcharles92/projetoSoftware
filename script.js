@@ -13,11 +13,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Cria um objeto com os dados
         const bookData = {
-            title: title,
-            author: author,
-            published: published,
-            qtPages: qtPages,
-            yearPublished: yearPublished
+            title: titulo,
+            author: autor,
+            published: publicação,
+            qtPages: quantidade de paginas,
+            yearPublished: ano de publicação
         };
 
         try {
